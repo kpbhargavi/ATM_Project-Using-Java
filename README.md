@@ -1,6 +1,6 @@
 # 🏦 ATM Simulation Project (Java)
 
-This is a simple **ATM Machine simulation** built using **Java**.  
+This is a simple **ATM simulation** built using **Java**.  
 The project demonstrates **Object-Oriented Programming (OOP)** concepts such as **Encapsulation, Interfaces, and Implementation classes**.  
 
 ## 📌 Features
