@@ -1,0 +1,32 @@
+PS C:\Users\kpbha\OneDrive\Desktop\Java projects> javac *.java
+PS C:\Users\kpbha\OneDrive\Desktop\Java projects> java AtmMain
+Welcome to ATM Machine!
+Enter ATM number: 12345
+Enter PIN: 123        
+
+1. View Available Balance
+2. Withdraw Amount    
+3. Deposit Amount     
+4. View Mini Statement
+5. Exit
+Enter choice: 3
+Enter amount to deposit: 2
+2.0 Deposited Successfully!
+Available Balance is: 10002.0
+
+1. View Available Balance
+2. Withdraw Amount    
+3. Deposit Amount     
+4. View Mini Statement
+5. Exit
+Enter choice: 4
+2.0 =  Amount Deposited
+
+1. View Available Balance
+3. Deposit Amount
+4. View Mini Statement
+5. Exit
+Enter choice: 5
+Collect your ATM Card
+Thank you for using ATM Machine
+PS C:\Users\kpbha\OneDrive\Desktop\Java projects>
